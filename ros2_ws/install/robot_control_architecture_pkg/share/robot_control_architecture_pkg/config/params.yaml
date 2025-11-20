@@ -1,0 +1,8 @@
+quiz_demo_hardcode:
+  ros__parameters:
+    sequence: ["B", "C", "B"]
+    linear_speed: 0.2
+    angular_speed: 1.0
+    distance_m: 1.5
+    stop_wait_s: 5.0
+    tts_text: "Congratulations! You answered correctly!"

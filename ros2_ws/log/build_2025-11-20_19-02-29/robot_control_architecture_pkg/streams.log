@@ -1,0 +1,29 @@
+[3.849s] Invoking command in '/home/ubuntu/ros2_ws/build/robot_control_architecture_pkg': PYTHONPATH=/home/ubuntu/ros2_ws/build/robot_control_architecture_pkg/prefix_override:/home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ubuntu/ros2_ws/build/robot_control_architecture_pkg/build --no-deps install_data
+[5.303s] running develop
+[6.261s] running egg_info
+[6.261s] creating robot_control_architecture_pkg.egg-info
+[6.262s] writing robot_control_architecture_pkg.egg-info/PKG-INFO
+[6.263s] writing dependency_links to robot_control_architecture_pkg.egg-info/dependency_links.txt
+[6.264s] writing entry points to robot_control_architecture_pkg.egg-info/entry_points.txt
+[6.265s] writing requirements to robot_control_architecture_pkg.egg-info/requires.txt
+[6.266s] writing top-level names to robot_control_architecture_pkg.egg-info/top_level.txt
+[6.267s] writing manifest file 'robot_control_architecture_pkg.egg-info/SOURCES.txt'
+[6.274s] reading manifest file 'robot_control_architecture_pkg.egg-info/SOURCES.txt'
+[6.277s] writing manifest file 'robot_control_architecture_pkg.egg-info/SOURCES.txt'
+[6.284s] running build_ext
+[6.285s] Creating /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/lib/python3.10/site-packages/robot-control-architecture-pkg.egg-link (link to .)
+[6.289s] Installing robot_quiz_demo_hardcode script to /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/lib/robot_control_architecture_pkg
+[6.290s] Installing simple_tts_node script to /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/lib/robot_control_architecture_pkg
+[6.291s] 
+[6.292s] Installed /home/ubuntu/ros2_ws/build/robot_control_architecture_pkg
+[6.292s] running install_data
+[6.293s] creating /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/ament_index
+[6.294s] creating /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/ament_index/resource_index
+[6.295s] creating /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/ament_index/resource_index/packages
+[6.295s] copying resource/robot_control_architecture_pkg -> /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/ament_index/resource_index/packages
+[6.296s] copying package.xml -> /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/robot_control_architecture_pkg
+[6.296s] creating /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/robot_control_architecture_pkg/launch
+[6.300s] copying launch/robot_control_architecture.launch.py -> /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/robot_control_architecture_pkg/launch
+[6.303s] creating /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/robot_control_architecture_pkg/config
+[6.304s] copying config/params.yaml -> /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/robot_control_architecture_pkg/config
+[6.482s] Invoked command in '/home/ubuntu/ros2_ws/build/robot_control_architecture_pkg' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/build/robot_control_architecture_pkg/prefix_override:/home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ubuntu/ros2_ws/build/robot_control_architecture_pkg/build --no-deps install_data

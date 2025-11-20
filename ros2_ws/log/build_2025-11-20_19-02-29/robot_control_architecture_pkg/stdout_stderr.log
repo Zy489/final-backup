@@ -1,0 +1,27 @@
+running develop
+running egg_info
+creating robot_control_architecture_pkg.egg-info
+writing robot_control_architecture_pkg.egg-info/PKG-INFO
+writing dependency_links to robot_control_architecture_pkg.egg-info/dependency_links.txt
+writing entry points to robot_control_architecture_pkg.egg-info/entry_points.txt
+writing requirements to robot_control_architecture_pkg.egg-info/requires.txt
+writing top-level names to robot_control_architecture_pkg.egg-info/top_level.txt
+writing manifest file 'robot_control_architecture_pkg.egg-info/SOURCES.txt'
+reading manifest file 'robot_control_architecture_pkg.egg-info/SOURCES.txt'
+writing manifest file 'robot_control_architecture_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/lib/python3.10/site-packages/robot-control-architecture-pkg.egg-link (link to .)
+Installing robot_quiz_demo_hardcode script to /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/lib/robot_control_architecture_pkg
+Installing simple_tts_node script to /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/lib/robot_control_architecture_pkg
+
+Installed /home/ubuntu/ros2_ws/build/robot_control_architecture_pkg
+running install_data
+creating /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/ament_index
+creating /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/ament_index/resource_index
+creating /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/ament_index/resource_index/packages
+copying resource/robot_control_architecture_pkg -> /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/robot_control_architecture_pkg
+creating /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/robot_control_architecture_pkg/launch
+copying launch/robot_control_architecture.launch.py -> /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/robot_control_architecture_pkg/launch
+creating /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/robot_control_architecture_pkg/config
+copying config/params.yaml -> /home/ubuntu/ros2_ws/install/robot_control_architecture_pkg/share/robot_control_architecture_pkg/config

@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+config/params.yaml
+launch/robot_control_architecture.launch.py
+resource/robot_control_architecture_pkg
+robot_control_architecture_pkg/__init__.py
+robot_control_architecture_pkg/robot_quiz_demo_hardcode.py
+robot_control_architecture_pkg/simple_tts_node.py
+robot_control_architecture_pkg.egg-info/PKG-INFO
+robot_control_architecture_pkg.egg-info/SOURCES.txt
+robot_control_architecture_pkg.egg-info/dependency_links.txt
+robot_control_architecture_pkg.egg-info/entry_points.txt
+robot_control_architecture_pkg.egg-info/requires.txt
+robot_control_architecture_pkg.egg-info/top_level.txt
+robot_control_architecture_pkg.egg-info/zip-safe

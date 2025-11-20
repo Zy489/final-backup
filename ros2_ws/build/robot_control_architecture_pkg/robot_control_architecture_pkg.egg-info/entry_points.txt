@@ -1,0 +1,4 @@
+[console_scripts]
+robot_quiz_demo_hardcode = robot_control_architecture_pkg.robot_quiz_demo_hardcode:main
+simple_tts_node = robot_control_architecture_pkg.simple_tts_node:main
+
